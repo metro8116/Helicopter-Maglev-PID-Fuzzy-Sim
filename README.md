@@ -1,4 +1,3 @@
-# 3-DOF Helicopter & Magnetic Levitation Control
 # 三自由度直升机与磁悬浮系统控制
 
 ## 项目背景 (Introduction)
